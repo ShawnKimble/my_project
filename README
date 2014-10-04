@@ -1,2 +1,7 @@
 "This is a test"
 THis is another test
+
+I installed git on my ubuntu box, then setup SSH keys.  Still need to figure out how to pull this locally
+but for now, am editing via my web session
+
+I forked your project, then edit the file.  Then somehow push this back to you, and you can confirm the merge.
